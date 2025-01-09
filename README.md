@@ -39,11 +39,6 @@ This project focuses on enhancing the performance of speech-to-text (STT) system
 |------------------|--------------|----------------|-------------|
 | Whisper (Tiny)   | 51.73%       | **9.29%**      | 82.03%      |
 
-### **Example Predictions**
-#### Baseline Prediction:
-> "id go out because ive been sitting down all day and i didnt feel like doing any homework when i"
-#### Fine-Tuned Prediction:
-> "id go out because id been sitting down all day and i didnt feel like doing any homework when i"
 
 ---
 
